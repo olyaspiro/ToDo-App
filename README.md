@@ -1,12 +1,23 @@
-# React + Vite
+Todo App
+The Todo App is a React-based task manager designed to help users organize their daily tasks efficiently. It demonstrates practical use of React, TypeScript, and CSS, offering a clean and intuitive interface with responsive design for both desktop and mobile.
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+Users can add, edit, delete, and mark tasks as complete, showcasing full CRUD functionality. Subtle animations and smooth interactions enhance the user experience, making the app portfolio-ready.
 
-Currently, two official plugins are available:
+Key Features:
+- Full CRUD functionality (Add, Edit, Delete, Complete tasks)
+- Responsive design for all screen sizes
+- Smooth animations for a polished interface
+- Portfolio-ready UI with clear visual feedback
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+Technologies Used:
+- React with hooks
+- TypeScript
+- CSS
+- Vite (build tool)
+- Optional: LocalStorage for task persistence
 
-## Expanding the ESLint configuration
-
-If you are developing a production application, we recommend using TypeScript and enable type-aware lint rules. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+Skills Highlighted:
+- React component design and state management
+- Implementing dynamic functionality with CRUD operations
+- Responsive design and user-focused UI
+- Deploying web applications on Netlify or Vercel
