@@ -1,6 +1,6 @@
 Todo App
 
-The Todo App is a React-based task manager designed to help users organize their daily tasks efficiently. It demonstrates practical use of React, TypeScript, and CSS, offering a clean and intuitive interface with responsive design for both desktop and mobile.
+The Todo App is a React-based task manager designed to help users organize their daily tasks efficiently. It demonstrates practical use of React and CSS, offering a clean and intuitive interface with responsive design for both desktop and mobile.
 
 Users can add, edit, delete, and mark tasks as complete, showcasing full CRUD functionality. Subtle animations and smooth interactions enhance the user experience, making the app portfolio-ready.
 
@@ -12,7 +12,7 @@ Key Features:
 
 Technologies Used:
 - React with hooks
-- TypeScript
+- JavaScript
 - CSS
 - Vite (build tool)
 - Optional: LocalStorage for task persistence
